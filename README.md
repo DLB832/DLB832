@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Derek!
-- 👀 I’m interested in Video Game Development, Machine Learning, and AI
+- 👀 I’m interested in Video Game Development, Machine Learning, AI, and Quantum Computing
 - 🌱 I’m currently studying Computer Science: Software Systems Programming 
 - 💞️ I’m looking to collaborate on all kinds of projects!
 - 📫 How to reach me: by email: DLB832@mocs.utc.edu
